@@ -25,7 +25,7 @@ SECRET_KEY = '$(w(k$5!+===i!)@9^a1&v=!6)2wer_oebh#di=*2%=$cc1)!$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
